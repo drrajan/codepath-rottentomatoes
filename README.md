@@ -24,7 +24,7 @@ Time spent: 11 hours
 - [x] Customize the navigation bar.
 
 ### Walkthrough
-![Video Walkthrough](https://github.com/drrajan/codepath-rottentomatoes/walkthrough.gif)
+![Video Walkthrough](https://github.com/drrajan/codepath-rottentomatoes/blob/master/walkthrough.gif)
 
 Credits
 ---------
