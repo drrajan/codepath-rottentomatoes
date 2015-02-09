@@ -2,7 +2,7 @@
 
 This is a movies app displaying box office and top rental DVDs using the [Rotten Tomatoes API](http://developer.rottentomatoes.com/docs/read/JSON).
 
-Time spent: `<Number of hours spent>`
+Time spent: 11 hours
 
 ### Features
 
@@ -24,7 +24,7 @@ Time spent: `<Number of hours spent>`
 - [x] Customize the navigation bar.
 
 ### Walkthrough
-![Video Walkthrough](http://)
+![Video Walkthrough](https://github.com/drrajan/codepath-rottentomatoes/walkthrough.gif)
 
 Credits
 ---------
